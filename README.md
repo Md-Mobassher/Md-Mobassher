@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mobassherpautex@gmail.com or developermobassher@gmail.com**
+- 📫 How to reach me **developermobassher@gmail.com or mobassherpautex@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
