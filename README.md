@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **mdmobassherhossain1@gmail.com or mobassherpautex@gmail.com**
 
