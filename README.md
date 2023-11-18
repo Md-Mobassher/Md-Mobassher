@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-mobassher" alt="md-mobassher" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Mongoose**
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **mdmobassherhossain1@gmail.com or mobassherpautex@gmail.com**
+- 📫 How to reach me **mdmobassherhossain1@gmail.com**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
