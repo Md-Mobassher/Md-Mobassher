@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bike Management System](https://github.com/Md-Mobassher/Bike_management_client)
 
-- 🌱 I’m currently learning **TypeScript , Redux**
+- 🌱 I’m currently learning **Prisma**
 
 - 👨‍💻 All of my projects are available at [https://dev-mobassher.web.app](https://dev-mobassher.web.app)
 
