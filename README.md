@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Grocery Management System](https://github.com/Md-Mobassher/groca-grocery-client)
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://dev-mobassher.web.app](https://dev-mobassher.web.app)
 
