@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [Portfolio Mobassher](https://dev-mobassher.web.app)
 
