@@ -15,6 +15,11 @@
 
 - 📫 How to reach me **mdmobassherhossain1@gmail.com**
 
+
+<br />
+<br />
+
+
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
@@ -27,8 +32,10 @@
 <a href="https://stackoverflow.com/users/17247019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17247019" height="30" width="40" /></a>
 </p>
 
+<br />
+<br />
 
-<h2 align="center" marginTop="10px">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -55,9 +62,12 @@
 </p>
   
 
+<br />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mobassher&show_icons=true&locale=en&layout=compact" alt="md-mobassher" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=true&locale=en" alt="md-mobassher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-mobassher&" alt="md-mobassher" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mobassher&show_icons=true&locale=en&layout=compact" alt="md-mobassher" /></p>
