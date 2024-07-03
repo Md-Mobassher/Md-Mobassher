@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20views&color=0e75b6&style=flat" alt="md-mobassher" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-mobassher" alt="md-mobassher" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=md-mobassher" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
+---
 
 - 🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
-
 - 🌱 I’m currently learning **GraphQL**
-
 - 👨‍💻 All of my projects are available at [Portfolio Mobassher](https://dev-mobassher.web.app)
-
 - 💬 Ask me about **React**
-
 - 📫 How to reach me **mdmobassherhossain1@gmail.com**
 
-
+---
 <br />
 
 <h1 align="center">Connect with me:</h1>
