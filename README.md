@@ -62,10 +62,10 @@
   
 
 <br />
-<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mobassher&show_icons=true&locale=en&layout=compact" alt="md-mobassher" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=true&locale=en" alt="md-mobassher" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-mobassher&" alt="md-mobassher" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mobassher&show_icons=true&locale=en&layout=compact" alt="md-mobassher" /></p>
 
 
