@@ -64,8 +64,8 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=true&locale=en" alt="md-mobassher" /></p>
 <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-mobassher&show_icons=true&locale=en&layout=compact" alt="md-mobassher" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=true&locale=en" alt="md-mobassher" /></p>
 <p>&nbsp; &nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-mobassher&" alt="md-mobassher" /></p>
 
 
