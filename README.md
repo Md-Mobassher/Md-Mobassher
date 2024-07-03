@@ -19,14 +19,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/md-mobassher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mobassher" height="30" width="40" /></a>
 <a href="https://twitter.com/md_mobasshert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_mobasshert" height="30" width="40" /></a>
-<a href="https://dev.to/mdmobassher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmobassher" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17247019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17247019" height="30" width="40" /></a>
+<a href="https://discord.gg/RVqtHAxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eaY6PMHq" height="30" width="40" /></a>
 <a href="https://fb.com/mdmobassherf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="30" width="40" /></a>
 <a href="https://instagram.com/mdmobassher807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmobassher807" height="30" width="40" /></a>
-<a href="https://codesandbox.com/md-mobassher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="md-mobassher" height="30" width="40" /></a>
-<a href="https://codepen.io/md-mobassher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="md-mobassher" height="30" width="40" /></a>
-<a href="https://www.behance.net/mdmobahossain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdmobahossain4" height="30" width="40" /></a>
-<a href="https://discord.gg/eaY6PMHq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eaY6PMHq" height="30" width="40" /></a>
+<a href="https://dev.to/mdmobassher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmobassher" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17247019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17247019" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
