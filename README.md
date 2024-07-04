@@ -4,6 +4,20 @@
 
 ---
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Mobassher.;Nice+to+meet+you!&center=true&size=35">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/md-mobassher" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="md-mobassher" height="50" width="100" /></a></code>
+  <code><a href="https://wa.me/+8801706060647" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg" alt="md_mobasshert" height="50" width="80" /></a></code>
+  <code><a href="https://discord.gg/RVqtHAxr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eaY6PMHq" height="30" width="40" /></a></code>
+  <code><a href="https://fb.com/mdmobassherf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="30" width="40" /></a></code>
+</h5>
+<br>
+
 <h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center">
