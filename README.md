@@ -2,7 +2,7 @@
   <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner Image" />
 </p>
 
----
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -23,26 +23,24 @@
   <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+
   Hi, I'm Md Mobassher Hossain, A passionate Full-Stack Developer from Bangladesh
   <br>
-  🎓 I graduated from Primeasia University, Department of Textile Engineering
+  🎓 I have graduated from Primeasia University, Department of Textile Engineering
   <br>
   💻 I love writing code and learn anythings about it
   <br>
    🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
   <br>
-🌱 I’m currently learning **Nextjs** make projects on it
+  🌱 I’m currently learning **Nextjs** and make projects on it
   <br>
-  👨‍💻 All of my projects are available at [Portfolio Mobassher](https://dev-mobassher.web.app)
+  👨‍💻 All of my projects are available at [Mobassher Portfolio](https://dev-mobassher.web.app)
   <br>
   💬 Ask me about **React**
   <br>
   📫 How to reach me: <a href="mailto: mdmobassherhossain1@gmail.com">**mdmobassherhossain1@gmail.com**</a>
-</p>
 
----
-
+<br>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -70,15 +68,16 @@
   <code><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a></code>
 </p>
 
----
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align="center">
   <div align="center">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=md-mobassher&theme=react&border=61dafb&hide_border=true" alt="md-mobassher" />
+    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=md-mobassher&theme=react&border=61dafb&hide_border=true" alt="md-mobassher" /> 
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
   <div align="center">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mobassher&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </div>
