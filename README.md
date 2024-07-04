@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner Image" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center">
@@ -18,8 +24,9 @@
 - 📫 How to reach me **mdmobassherhossain1@gmail.com**
 
 ---
+
 <h2 align="center">Connect with me</h2>
-<br />
+<br>
 <p align="center">
   <a href="https://linkedin.com/in/md-mobassher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mobassher" height="30" width="40" /></a>
   <a href="https://twitter.com/md_mobasshert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_mobasshert" height="30" width="40" /></a>
@@ -33,7 +40,7 @@
 ---
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br />
+<br>
 <p align="center"> 
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></code>
   <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a></code>
@@ -66,10 +73,10 @@
     <img align="left" width="390" src="https://streak-stats.demolab.com/?user=md-mobassher&theme=react&border=61dafb&hide_border=true" alt="md-mobassher" />
     <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-  <br /><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <div align="center">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mobassher&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </div>
-  <br />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-mobassher&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
