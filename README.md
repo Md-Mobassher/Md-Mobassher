@@ -18,40 +18,31 @@
 </h5>
 <br>
 
-<h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=md-mobassher" alt="GitHub Profile Trophy" />
-  </a>
+  Hi, I'm Md Mobassher Hossain, A passionate Full-Stack Developer from Bangladesh
+  <br>
+  🎓 I graduated from Primeasia University, Department of Textile Engineering
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+   🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
+  <br>
+🌱 I’m currently learning **Nextjs** make projects on it
+  <br>
+  👨‍💻 All of my projects are available at [Portfolio Mobassher](https://dev-mobassher.web.app)
+  <br>
+  💬 Ask me about **React**
+  <br>
+  📫 How to reach me: <a href="mailto: mdmobassherhossain1@gmail.com">**mdmobassherhossain1@gmail.com**</a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
-- 🌱 I’m currently learning **GraphQL**
-- 👨‍💻 All of my projects are available at [Portfolio Mobassher](https://dev-mobassher.web.app)
-- 💬 Ask me about **React**
-- 📫 How to reach me **mdmobassherhossain1@gmail.com**
-
----
-
-<h2 align="center">Connect with me</h2>
-<br>
-<p align="center">
-  <a href="https://linkedin.com/in/md-mobassher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mobassher" height="30" width="40" /></a>
-  <a href="https://twitter.com/md_mobasshert" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_mobasshert" height="30" width="40" /></a>
-  <a href="https://discord.gg/RVqtHAxr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eaY6PMHq" height="30" width="40" /></a>
-  <a href="https://fb.com/mdmobassherf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="30" width="40" /></a>
-  <a href="https://instagram.com/mdmobassher807" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdmobassher807" height="30" width="40" /></a>
-  <a href="https://dev.to/mdmobassher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdmobassher" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/17247019" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17247019" height="30" width="40" /></a>
-</p>
-
----
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
