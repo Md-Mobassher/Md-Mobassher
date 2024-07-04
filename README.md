@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner Image" />
+  <img src="https://i.ibb.co/87NFPg9/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png" alt="Banner Image" />
 </p>
 
 
