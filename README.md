@@ -32,7 +32,7 @@
   <br>
    🔭 I’m currently working on [Ad-doha Institute](https://github.com/Md-Mobassher/Ad-doha-Institute-Client)
   <br>
-  🌱 I’m currently learning **Nextjs** and make projects on it
+  🌱 I’m currently learning **React Native**
   <br>
   👨‍💻 All of my projects are available at [Mobassher Portfolio](https://dev-mobassher.web.app)
   <br>
