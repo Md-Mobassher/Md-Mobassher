@@ -30,9 +30,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-   🔭 I’m currently working on [Stock Management System]()
+   🔭 I’m currently working on [Dropshipping ERP System]()
   <br>
-  🌱 I’m currently learning **React Native**
+  🌱 I’m currently learning **Cyber Security & Ethical Hacking**
   <br>
   👨‍💻 All of my projects are available at [Mobassher Portfolio](https://mobassher.vercel.app)
   <br>
