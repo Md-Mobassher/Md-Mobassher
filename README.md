@@ -1,86 +1,123 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/87NFPg9/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png" alt="Banner Image" />
+  <img src="https://i.ibb.co/87NFPg9/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png" alt="Md Mobassher Banner" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
+<h3 align="center">Full-Stack Developer | React, Next.js, Node.js, TypeScript</h3>
 
+<p align="center">
+  Building scalable web applications and ERP systems with modern technologies.
+</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Mobassher;Nice+to+meet+you!&center=true&size=35">
+---
+
+## 🚀 About Me
+
+- 💼 Full-Stack Developer from Bangladesh
+- 🔭 Currently working on a **Dropshipping ERP System**
+- 🌱 Learning **Cyber Security & Ethical Hacking**
+- 🎓 Graduate in Textile Engineering from Primeasia University
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js**
+- ⚡ Passionate about building scalable SaaS, CRM, and ERP systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://mobassher.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/md-mobassher" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="md-mobassher" height="40" width="40" /></a></code>
-  <code><a href="https://wa.me/+8801706060647" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="md_mobasshert" height="40" width="40" /></a></code>
-  <code><a href="https://discord.gg/RVqtHAxr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="eaY6PMHq" height="40" width="40" /></a></code>
-  <code><a href="https://fb.com/mdmobassherf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmobassherf" height="40" width="40" /></a></code>
-</h5>
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/md-mobassher" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdmobassherhossain1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/md-mobassher" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+---
 
-  Hi, I'm Md Mobassher Hossain, A passionate Full-Stack Developer from Bangladesh
-  <br>
-  🎓 I have graduated from Primeasia University, Department of Textile Engineering
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-   🔭 I’m currently working on [Dropshipping ERP System]()
-  <br>
-  🌱 I’m currently learning **Cyber Security & Ethical Hacking**
-  <br>
-  👨‍💻 All of my projects are available at [Mobassher Portfolio](https://mobassher.vercel.app)
-  <br>
-  💬 Ask me about **React**
-  <br>
-  📫 How to reach me: <a href="mailto: mdmobassherhossain1@gmail.com">**mdmobassherhossain1@gmail.com**</a>
+## 🛠 Tech Stack
 
-<br>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge)
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center"> 
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></code>
-  <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a></code>
-  <code><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a></code>
-  <code><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="nextjs" width="40" height="40" /></a></code>
-  <code><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a></code>
-  <code><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></code>
-  <code><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a></code>
-  <code><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a></code>
-  <code><a href="https://mongoosejs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40" /></a></code>
-  <code><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a></code>
-  <code><a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="40" height="40" /></a></code>
-  <code><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a></code>
-  <code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /></a></code>
-  <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></code>
-  <code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></code>
-  <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></code>
-  <code><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a></code>
-  <code><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a></code>
-  <code><a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" /></a></code>
-  <code><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a></code>
-  <code><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a></code>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Database & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+## 📌 Featured Projects
+
+### 🏢 Dropshipping ERP System
+Comprehensive ERP system for product management, order processing, CRM, and analytics.
+
+### 🐾 Pet Adoption Platform
+Full-stack application for adopting pets with secure authentication and admin dashboard.
+
+### 🎓 Ad-Doha Institute
+Educational management platform for students, courses, and payments.
+
+### 🤝 Save Humanity Trust
+NGO management system for donations, events, and volunteer coordination.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-mobassher&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<br>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align="center">
-  <div align="center">
-    <img align="left" width="390" src="https://streak-stats.demolab.com/?user=md-mobassher&theme=react&border=61dafb&hide_border=true" alt="md-mobassher" /> 
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=md-mobassher&show_icons=false&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mobassher&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-mobassher&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-mobassher&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-mobassher&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build world-class SaaS and ERP products
+- Contribute to open-source projects
+- Master system design and scalable architecture
+- Land a senior full-stack developer role
+
+---
+
+<p align="center">
+  <i>"Code with purpose. Build with impact."</i>
 </p>
