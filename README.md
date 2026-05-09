@@ -74,17 +74,17 @@
 
 ## 📌 Featured Projects
 
-### 🏢 Dropshipping ERP System
-Comprehensive ERP system for product management, order processing, CRM, and analytics.
+### 🏢 Custom Business Management SaaS (Bismillah Trading)
+A multi-company SaaS platform built to manage and scale trading businesses. Features include sales tracking, purchase management, inventory control, accounting, customer and supplier management, reporting, and role-based access control.
 
-### 🐾 Pet Adoption Platform
-Full-stack application for adopting pets with secure authentication and admin dashboard.
+### 🏫 School Management System
+A complete educational ERP solution for managing students, teachers, attendance, examinations, fees, payroll, and academic reports.
 
-### 🎓 Ad-Doha Institute
-Educational management platform for students, courses, and payments.
+### 🛒 E-Commerce Management System
+A robust system for managing products, inventory, orders, payments, shipping, and customer analytics.
 
-### 🤝 Save Humanity Trust
-NGO management system for donations, events, and volunteer coordination.
+### 💍 Matrimony Platform
+A full-featured matchmaking platform with user profiles, advanced search filters, subscription plans, and secure real-time messaging.
 
 ---
 
