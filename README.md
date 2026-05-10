@@ -23,6 +23,18 @@
 
 ---
 
+## 💼 Professional Experience
+
+| Position | Organization | Period |
+|---------|---------|---------|
+| Full-Stack Engineer & Integrations Lead | Neli Arabi GmbH | Sep 2025 – May 2026 |
+| Full Stack Developer | Rushkat.co | May 2025 – Jul 2025 |
+| Full Stack Developer | Dev Cluster | Oct 2024 – Apr 2025 |
+| Founder & Full-Stack Developer | Bismillah Trading SaaS | 2025 – Present |
+| Founder | Mobassher IT Studio | 2023 – Present |
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
