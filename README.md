@@ -58,6 +58,9 @@
   <a href="https://drive.google.com/file/d/1lrAMInBo2I610RC-oMsihi2_Tt2sZW7j/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
+  <a href="https://wa.me/8801773381807" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -169,7 +172,7 @@ Available for:
 ## 🎯 2026 Goals
 
 - Build world-class SaaS and ERP products
-- Contribute to open-source projects
+- Contribute to open-source projects 
 - Master system design and scalable architecture
 - Land a senior full-stack engineering role
 
@@ -178,5 +181,3 @@ Available for:
 <p align="center">
   <i>"Code with purpose. Build with impact."</i>
 </p>
-
-This version positions you as a professional full-stack engineer, SaaS founder, and agency owner with international remote experience.
