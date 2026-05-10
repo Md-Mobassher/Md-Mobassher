@@ -61,6 +61,9 @@
   <a href="https://wa.me/8801773381807" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+   <a href="https://calendly.com/mobassherhossain/30min" target="_blank">
+  <img src="https://img.shields.io/badge/Schedule%20a%20Call-00A2FF?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+ </a>
 </p>
 
 ---
