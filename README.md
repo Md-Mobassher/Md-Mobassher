@@ -1,9 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/87NFPg9/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner-1.png" alt="Md Mobassher Banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Md Mobassher Hossain</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
+  , I'm Md Mobassher Hossain
+</h1>
 <h3 align="center">Full-Stack Engineer | React, Next.js, Node.js, TypeScript</h3>
 
 <p align="center">
