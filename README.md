@@ -20,18 +20,19 @@
 - 🎓 Graduate in Textile Engineering from Primeasia University
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js**
 - ⚡ Passionate about building scalable SaaS, CRM, and ERP systems
+- 🚀 Founder of **Mobassher IT Studio**, delivering custom SaaS, CRM, ERP, and web solutions for businesses.
 
 ---
 
 ## 💼 Professional Experience
 
-| Position | Organization | Period |
-|---------|---------|---------|
-| Full-Stack Engineer & Integrations Lead | Neli Arabi GmbH | Sep 2025 – May 2026 |
-| Full Stack Developer | Rushkat.co | May 2025 – Jul 2025 |
-| Full Stack Developer | Dev Cluster | Oct 2024 – Apr 2025 |
-| Founder & Full-Stack Developer | Bismillah Trading SaaS | 2025 – Present |
-| Founder | Mobassher IT Studio | 2023 – Present |
+| Position | Organization | Period | Highlights |
+|---------|---------|---------|---------|
+| Full-Stack Engineer & Integrations Lead | Neli Arabi GmbH (Germany) | Sep 2025 – May 2026 | Neli Arabi GmbH | Led development of a multi-tenant ERP and eCommerce integrations |
+| Full Stack Developer | Rushkat.co (South Korea) | May 2025 – Jul 2025 | Built scalable full-stack applications using React, Next.js, and PostgreSQL |
+| Full Stack Developer | Dev Cluster (Bangladesh) | Oct 2024 – Apr 2025 | Developed CRM and POS systems with React and Node.js |
+| Founder & Full-Stack Developer | Bismillah Trading SaaS | 2025 – Present | Built a multi-company business management SaaS platform |
+| Founder | Mobassher IT Studio | 2023 – Present | Provides custom web, SaaS, CRM, and ERP development services |
 
 ---
 
