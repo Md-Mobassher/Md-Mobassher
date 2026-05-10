@@ -28,7 +28,7 @@
 
 | Position | Organization | Period | Highlights |
 |---------|---------|---------|---------|
-| Full-Stack Engineer & Integrations Lead | Neli Arabi GmbH (Germany) | Sep 2025 – May 2026 | Neli Arabi GmbH | Led development of a multi-tenant ERP and eCommerce integrations |
+| Full-Stack Engineer & Integrations Lead | Neli Arabi GmbH (Germany) | Sep 2025 – May 2026 | Led development of a multi-tenant ERP and eCommerce integrations |
 | Full Stack Developer | Rushkat.co (South Korea) | May 2025 – Jul 2025 | Built scalable full-stack applications using React, Next.js, and PostgreSQL |
 | Full Stack Developer | Dev Cluster (Bangladesh) | Oct 2024 – Apr 2025 | Developed CRM and POS systems with React and Node.js |
 | Founder & Full-Stack Developer | Bismillah Trading SaaS | 2025 – Present | Built a multi-company business management SaaS platform |
