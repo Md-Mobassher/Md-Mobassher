@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">
   Hi 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" />
   , I'm Md Mobassher Hossain
 </h1>
 <h3 align="center">Full-Stack Engineer | React, Next.js, Node.js, TypeScript</h3>
