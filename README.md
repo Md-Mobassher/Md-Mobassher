@@ -139,7 +139,7 @@ A full-featured matchmaking application with user profiles, advanced search filt
 
 ## 🤝 Open to Opportunities
 
-Available for:
+### Available for:
 
 - Full-Time Remote Roles
 - Contract Work
