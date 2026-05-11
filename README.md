@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-mobassher&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mobassherdev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -154,7 +154,7 @@ A full-featured matchmaking application with user profiles, advanced search filt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=md-mobassher&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=mobassherdev&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -162,7 +162,7 @@ A full-featured matchmaking application with user profiles, advanced search filt
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-mobassher&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobassherdev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
