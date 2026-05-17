@@ -49,7 +49,7 @@
   <a href="https://linkedin.com/in/mobassherdev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mdmobassherhossain1@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:mobassherdev@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mobassherdev" target="_blank" rel="noreferrer">
